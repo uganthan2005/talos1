@@ -1,0 +1,192 @@
+/* Tailwind v4 entry */
+/* Preconnect and optimize font loading - move to layout.tsx head if possible */
+@import url('https://fonts.googleapis.com/css2?family=BBH+Bartle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.cdnfonts.com/css/dseg14-classic');
+@import "tailwindcss";
+
+@theme {
+  --font-zen-dots: var(--font-zen-dots);
+  --font-ibm-plex-mono: var(--font-ibm-plex-mono);
+}
+
+/* Fallback utilities to ensure fonts work if theme fails */
+.font-zen-dots {
+  font-family: var(--font-zen-dots), sans-serif;
+}
+
+.font-ibm-plex-mono {
+  font-family: var(--font-ibm-plex-mono), monospace;
+}
+
+/* =========================
+   THEME VARIABLES
+   ========================= */
+:root {
+  --background: #0a0a0a;
+  --foreground: #ededed;
+
+  --primary: #dc2626;
+  /* red-600 */
+  --primary-foreground: #ffffff;
+
+  --muted: #262626;
+  --muted-foreground: #a3a3a3;
+}
+
+/* =========================
+   GLOBAL STYLES
+   ========================= */
+html,
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-zen-dots), "Righteous", sans-serif;
+  /* Performance optimizations */
+  text-rendering: optimizeSpeed;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Use contain for heavy animation elements */
+.contain-paint {
+  contain: paint;
+}
+
+.contain-layout {
+  contain: layout style paint;
+}
+
+.bbh-bartle-regular {
+  font-family: "BBH Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.ibm-plex-mono-semibold {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.ibm-plex-placeholder::placeholder {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 600;
+}
+
+.ibm-plex-mono {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.zen-dots-regular {
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.neon-text-red {
+  text-shadow: none;
+}
+
+/* Hide default cursor (intentional design) */
+body {
+  cursor: none;
+}
+
+/* Adaptive cursor fallback for low-end devices */
+body.use-default-cursor {
+  cursor: auto !important;
+}
+
+body.use-default-cursor * {
+  cursor: auto !important;
+}
+
+a,
+button,
+[role="button"] {
+  cursor: none;
+}
+
+/* Enhanced cursor visibility for all browsers */
+body.use-default-cursor a,
+body.use-default-cursor button,
+body.use-default-cursor [role="button"] {
+  cursor: pointer !important;
+}
+
+body.use-default-cursor input,
+body.use-default-cursor textarea {
+  cursor: text !important;
+}
+
+/* Ensure cursor is visible in all browsers */
+@supports (-webkit-appearance: none) {
+  body.use-default-cursor {
+    -webkit-cursor-visibility: visible;
+  }
+}
+
+@supports (-moz-appearance: none) {
+  body.use-default-cursor {
+    -moz-cursor-visibility: visible;
+  }
+}
+
+/* =========================
+   INFINITE SCROLL ANIMATION
+   ========================= */
+@keyframes infinite-scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-infinite-scroll {
+  animation: infinite-scroll 30s linear infinite;
+}
+
+@keyframes marquee-left {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+@keyframes marquee-right {
+  from {
+    transform: translateX(-100%);
+  }
+
+  to {
+    transform: translateX(0);
+  }
+}
+
+.font-dseg {
+  font-family: 'DSEG14 Classic', sans-serif;
+  font-style: italic;
+}
+
+/* =========================
+   HUD BACKGROUND ANIMATIONS
+   ========================= */
+@keyframes scan {
+  0% { top: 0%; }
+  100% { top: 100%; }
+}

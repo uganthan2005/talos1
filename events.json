@@ -1,0 +1,362 @@
+[
+  {
+    "event_id": "crimetrace",
+    "title": "CrimeTrace",
+    "caption": "\"Not all murders leave fingerprints — some leave data. Can you crack the case.\"",
+    "category": "Technical",
+    "oneLiner": "Solve the Clue and Crack the Case",
+    "description": "Traces hide in every shadow—connect the right ones to crack mind-bending cyber crimes! Ignite your inner detective fire, unleash razor-sharp skills, and expose the sinister digital plots in this pulse-pounding mystery showdown!",
+    "main_description": "CrimeTrace is a web-based Capture The Flag event that immerses participants in a digital crime investigation. Teams analyze hidden clues across files, images, webpages, and encoded data to uncover flags representing key evidence. The event challenges logical reasoning, forensic thinking, and problem-solving under strict time limits, encouraging participants to connect fragmented clues, decode the unseen, and uncover the truth through sharp analysis and strategy.",
+    "rules": "• This is a Team Event . Team size: 2-3 (including Leader) • Any form of flag or answer sharing between participants or teams will result in immediate disqualification of the entire team. • Only participants qualified in Round 1 are eligible to advance to Round 2. • All flags must be submitted exactly in the specified format; incorrect formats will not be accepted. • Points are awarded for correct flags, while hint usage will incur penalties. • Participants must bring their own laptops for the event. • Evaluation is based on accuracy, logical reasoning, analytical depth, and time efficiency under given constraints.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/Crime Trace .png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#SolveTheCrime",
+      "#TrendingNow",
+      "#ViralTech",
+      "#DetectiveMode"
+    ],
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "max_participants": null,
+    "organiser": {
+      "name": "saravanan v",
+      "contact": [
+        "9360641348",
+        "6380481380"
+      ]
+    }
+  },
+  {
+    "event_id": "expedition404",
+    "title": "Expedition 404",
+    "caption": "The hunt begins. Only the sharpest minds will survive. Are you ready?",
+    "category": "Technical",
+    "oneLiner": "Logic will lead you. Only courage will carry you.",
+    "description": "Ever wondered how sharp you are without Internet, phones, or laptops?. Step into Expedition 404 — a high-intensity offline technical treasure hunt where logic, reasoning, and teamwork are your only tools. Crack debugging puzzles, chase hidden clues across campus, and race against time in an adrenaline-packed relay adventure.",
+    "main_description": "Expedition 404 is an offline team-based technical treasure hunt. Teams of 2–3 members divide roles: 1–2 members stay at the main venue solving paper-based debugging questions, while the remaining member(s) move across the campus. Each solved debugging question reveals the next location. The roaming member(s) must reach that location and solve a cognitive puzzle to obtain a verification code. Once verified, the next debugging question is unlocked. This sequence continues until all stages are completed. The first team to finish all stages wins.",
+    "rules": "• Teams must consist of 2–3 members(including Leader). • Round 1 is a Kahoot-based quiz; only shortlisted teams advance to Round 2. • Round 2 is offline; 1–2 members must remain at the main venue, while remaining member(s) move across the campus. • Paper-and-pen only in Round 2; laptops, compilers, internet, and AI tools are strictly prohibited. • Mobile phones are allowed only for internal team communication. • Teams must follow the given location sequence; skipping locations is not allowed. • Sharing answers, clues, or code words, or seeking external help, leads to disqualification. • Each team is supervised by a dedicated monitor; all rules must be strictly followed. • Organizers' decisions are final and binding.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/Expedition 404.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#HackTrack",
+      "#TeamworkWins",
+      "#Trending",
+      "#BrainsInAction"
+    ],
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "max_participants": null,
+    "organiser": {
+      "name": "Vishal M",
+      "contact": [
+        "9940186778",
+        "9176609273"
+      ]
+    }
+  },
+  {
+    "event_id": "lenstolife",
+    "title": "Resolution Captures",
+    "caption": "Think your camera can capture moments without filters or themes? Then this is for you. Join this open photography challenge—submit one raw, high-resolution shot with a caption, and let creativity and reach decide the best",
+    "category": "Online",
+    "oneLiner": null,
+    "description": "Think your camera can capture moments without filters or themes? Then this is for you. Join this open photography challenge—submit one raw, high-resolution shot with a caption, and let creativity and reach decide the best",
+    "main_description": "This is an open photography contest with no fixed theme. Participants must capture and submit an original, high-resolution photograph within the given timeframe. The focus is on raw creativity and storytelling without digital manipulation. Each submission must include a short caption. Winners are selected based on creativity and overall reach by Team TALOS.",
+    "rules": "Participation is individual only. Submitted photos must be high resolution. No editing, filters, or enhancements are allowed. Each photo must include a caption (maximum 30 words). Photos must be original and clicked by the participant. Submission after 02.02.2026 will not be accepted. Judging will be based on creativity and reach, decided by Team TALOS. Any violation of rules leads to direct disqualification.",
+    "venue": "Online",
+    "date": "2026-02-04",
+    "time": "Ongoing",
+    "created_at": "January 18, 2026 at 1:03:08 PM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/lenstolife.png",
+    "hashtags": [],
+    "is_team_event": false,
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "max_participants": null,
+    "registration_fee": 50,
+    "organiser": {
+      "name": "Nitheesh",
+      "contact": [
+        "7200379327",
+        "9486213361"
+      ]
+    }
+  },
+  {
+    "event_id": "paperpresentation",
+    "title": "Paper Presentation",
+    "caption": "One question at a time, one mind at a time — the Tech Quiz is a battle of wits. Are you in?",
+    "category": "Technical",
+    "oneLiner": "Let your ideas speak louder than words --- coz powerful ideas don't whisper.",
+    "description": "Got an idea worth sharing? This is your space to speak up, share your ideas, present your research, and spark conversations that inspire learning and leave a lasting impact.",
+    "main_description": "Got an idea worth sharing? This is your space to speak up, share your ideas, present your research, and spark conversations that inspire learning and leave a lasting impact.",
+    "rules": "● Each team should consist of 2 to 3 members. ● Submit your Presentation in PDF or Doc Format on the Form Circulated on the Previous Day. ● Each team must submit only 1 paper. ● Participants must bring their own laptop for their presentation. ● Use of offensive or inappropriate content in the presentation is strictly prohibited.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/Paper Presentation.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#TechQuiz2026",
+      "#TrendingNow",
+      "#ViralChallenge",
+      "#MindOverCode"
+    ],
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "max_participants": null,
+    "organiser": {
+      "name": "Rakshitha L",
+      "contact": [
+        "6379265900",
+        "9841065287"
+      ]
+    }
+  },
+  {
+    "event_id": "pitchperfect",
+    "title": "PITCH PERFECT",
+    "caption": "Some pitch. Few conquer. Which one will you be?",
+    "category": "Technical",
+    "oneLiner": "Pitch it. Build it. Prove it.",
+    "description": "What if your idea could actually make it to the real world? Pitch Perfect challenges you to pitch smart, build fast, and prove real world solutions with a working prototype. Innovation isn't just spoken here, it's brought to light",
+    "main_description": "Pitch Perfect is where bold ideas meet real world impact. This platform empowers participants to pitch compelling solutions, build working prototypes, and refine startup ideas through structured evaluation. With live pitching, and hands on validation, teams don't just present concepts, they shape innovations that are practical, powerful and ready for the real world.",
+    "rules": "• Teams consisting of 1–5 members, as well as solo participants, must submit original ideas to avoid disqualification. • Round 1 (Online Screening): Participants must submit a PPT outlining the problem statement, proposed solution, and expected impact within the given deadline. • Round 2 (Offline Final): Shortlisted teams will present a 5–10 minutes live pitch, followed by a Q&A session before the judges. • A working prototype or functional demonstration is mandatory for the final presentation. • Evaluation is based on innovation, prototype functionality, and communication skills.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/pitch perfect.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#PitchPerfect",
+      "#StartupBattle",
+      "#InnovateToWin",
+      "#TrendingNow"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 5,
+    "max_participants": null,
+    "organiser": {
+      "name": "SABARINATHAN S",
+      "contact": [
+        "9842344477",
+        "7200691909"
+      ]
+    }
+  },
+  {
+    "event_id": "pixora",
+    "title": "PIXORA",
+    "caption": "Forget the cape. Pick up the mouse. The multiverse needs an interface that actually works.⚡",
+    "category": "Technical",
+    "oneLiner": "Building digital spaces for minds beyond reality✨",
+    "description": "Behind every great movie, series, or universe are systems nobody designed. Choose your world. Build the interfaces its inhabitants desperately need. Figma-powered creativity. No plagiarism. Can you engineer the multiverse?",
+    "main_description": "Pixora is a UI/UX design event where participants create character-driven websites using Figma, competing solo or in teams of two. In the first round, designers build a themed website inspired by movies or shows, focusing on user perspective and character needs. Shortlisted participants move to a second round, where they design a website based on a given theme using limited AI assistance, which must be further refined manually. The event encourages creativity, user-centric thinking and thoughtful design decisions throughout.",
+    "rules": "• Participants can compete solo or in teams of up to 2 members • AI tools are not allowed in Round 1 and can be used only once for limited refinement in Round 2. • Only web interface designs are allowed; mobile apps are not permitted. • Plagiarism or reuse of templates will lead to immediate disqualification. • Teams must submit their Figma file within the given time limit. • Judging is based on user empathy, visual consistency, and theme adherence. • The judges' decision is final.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/pixora.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#Pixora",
+      "#UIUX",
+      "#Figma",
+      "#DesignTheMultiverse",
+      "#TrendingNow"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "max_participants": null,
+    "organiser": {
+      "name": "Seenivasan V",
+      "contact": [
+        "7010178576",
+        "9080405711"
+      ]
+    }
+  },
+  {
+    "event_id": "plotverse",
+    "title": "Plotverse",
+    "caption": "Every dataset hides a story. Only the sharpest minds can decode it. Are you ready for Plotverse?",
+    "category": "Technical",
+    "oneLiner": "Plot your way to infinite vision.",
+    "description": "Ever wondered how raw data turns into powerful decisions? PlotVerse is a high-impact data visualization challenge where analytical thinking, storytelling, and design skills come together to uncover insights from real-world datasets.",
+    "main_description": "PlotVerse is a competitive data visualization event where teams analyze real-world datasets to build meaningful dashboards and derive actionable insights. Participants use tools such as Power BI or Tableau to answer analytical questions, visualize trends, and present clear business interpretations. Performance is evaluated based on analytical accuracy, visual clarity, insight quality, and time efficiency, simulating a real corporate data analyst challenge.",
+    "rules": "● Teams must have 1–2 members ● Only Tableau or Power BI can be used for analysis ● Attendance at the orientation session is mandatory ● Dataset and questions are allotted cannot be changed ● Winners are chosen based on accuracy, visualization, and insights",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/plotverse.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#Plotverse2026",
+      "#TrendingNow",
+      "#ViralChallenge",
+      "#StoryThroughData"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "max_participants": null,
+    "organiser": {
+      "name": "NAVEENKUMAR M",
+      "contact": [
+        "8680970170",
+        "6384989076"
+      ]
+    }
+  },
+  {
+    "event_id": "predictg",
+    "title": "PREDICT G",
+    "caption": "Predict. Execute. Dominate. Time's watching — are you ready?",
+    "category": "Technical",
+    "oneLiner": "Noise is ruthless. Are you ruthless too?",
+    "description": "Ready to shift from classroom theory to practical data intuition? PredictG is an elite competition testing your ability to clean Dirty Data, architect Machine Learning models, and deploy Deep Learning solutions under industry-style constraints.",
+    "main_description": "PredictG begins with an elimination round where teams choose a domain, clean messy datasets, and build optimized Machine Learning models. Top performers advance to architect complex Deep Learning solutions, tuning neural networks for high-stakes problems. Participants must deploy their final models against a hidden test set, with victory determined by prediction accuracy on unseen data.",
+    "rules": "Team Structure: Teams can consist of an individual or a maximum of 2 members. ● Format: Round 1 is an elimination round; only top teams qualify for the Advanced Round. ● Hardware: Participants must bring their own laptops with at least an i5 11th Gen processor. ● Software: Laptops must be pre-loaded with Python and standard libraries (Pandas, NumPy, Scikit-Learn, TensorFlow/PyTorch). ● Fair Play: Manual labeling, data leakage, or cheating will result in immediate disqualification. ● Winning Criteria: Rankings are based on model accuracy; ties are broken by submission time. ● Final Decision: The organizer's decision is final and binding. ● You are allowed to use exactly one AI tool (e.g., ChatGPT, Gemini) strictly for model architecture and building. ● Using AI for data cleaning or preprocessing is strictly prohibited; doing so will result in immediate disqualification without warning",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/Predict X.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#PredictX2026",
+      "#MachineLearningChallenge",
+      "#DataDominance",
+      "#TrendingNow"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "max_participants": null,
+    "organiser": {
+      "name": "Akash N",
+      "contact": [
+        "6369339802",
+        "7397164807"
+      ]
+    }
+  },
+  {
+    "event_id": "promptorix",
+    "title": "PROMPTORIX",
+    "caption": "The machine responds — but only to the worthy. Are you one of them?",
+    "category": "Technical",
+    "oneLiner": "Power isn't in the machine… it's in the one who commands it.",
+    "description": "Do you think prompting is easy? PROMPTORIX disagrees. One AI. Multiple levels. Hidden traps. Every word matters. Say the right thing, escape. Say the wrong thing, get stuck.",
+    "main_description": "PROMPTORIX is an individual, offline AI-based technical event structured with three progressive levels. Participants begin with a constraint-based image creation task, followed by an exciting surprise AI challenge task that tests adaptability, logical reasoning and prompt efficiency. The final level challenges finalists to build a basic functional webpage based on given theme under strict prompt and tool limitations. Advancement depends on accuracy, creativity, strategic thinking, and adherence to event rules.",
+    "rules": "• Participation is individual • Internet access is permitted only for AI tool usage • Participants must use only one AI tool per level • Prompt limits and keyword restrictions must be strictly followed • Switching tools, exceeding prompts, or unfair practices will result in disqualification • Sharing prompts or outputs is strictly prohibited",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/PROMPTORIX1.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#Promptmania",
+      "#AIChallenge",
+      "#CommandTheMachine",
+      "#TrendingNow"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 1,
+    "max_participants": null,
+    "organiser": {
+      "name": "Manjusri v",
+      "contact": [
+        "8056103855",
+        "9043973073"
+      ]
+    }
+  },
+  {
+    "event_id": "speakquizy",
+    "title": "Speakquizy",
+    "caption": "Master the code. Beat the buzzer. Turn your tech knowledge into a winning move!",
+    "category": "Technical",
+    "oneLiner": "Only the quickest minds gets survive.",
+    "description": "Only the fastest, sharpest, and smartest will survive—are you one of them? SpeakQuizy throws you into live polls, rapid-fire buzzer rounds, and a dice-driven board game where every choice can make or break your victory",
+    "main_description": "Speakquizy is a three-round competitive event starting with a live polling round on Wayground. Shortlisted teams move to a fast-paced buzzer round based on visual recognition. The final round is a board game where a 4-sided die determines question difficulty or power-up rewards. Teams move forward for correct answers and backward for incorrect ones. The first team to navigate the board through strategy and speed wins.",
+    "rules": "Teams must consist of 2–3 members. Round 1: Interactive polling via Wayground to shortlist teams. Round 2: Image-based buzzer round testing speed and accuracy. Round 3: Board game using a 4-sided die (1-4). Game Rule Dice faces represent: Easy, Moderate, Hard, and Power-up. Power-ups include Shield, Reverse Attack, Double Points, and Skip. Correct answers move the team forward; incorrect answers move the team backward. Teams cannot move backward beyond the starting point. Winners are decided by time and nearest to the ending point.",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/speakquizy.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#TechQuiz2026",
+      "#TrendingNow",
+      "#ViralChallenge",
+      "#MindOverCode"
+    ],
+    "min_team_size": 2,
+    "max_team_size": 3,
+    "max_participants": null,
+    "organiser": {
+      "name": "S. V. Varshini",
+      "contact": [
+        "8122656517",
+        "9360899334"
+      ]
+    }
+  },
+  {
+    "event_id": "strangercodes",
+    "title": "Stranger Codes",
+    "caption": "New language, new rules, same brainpower — are you ready to bend your logic?",
+    "category": "Technical",
+    "oneLiner": "Can your brain handle chaos of the code?",
+    "description": "Are you ready to leave your comfort zone and decode a mysterious, custom-built programming language in real-time? This isn't just about writing code; it's the ultimate test of your ability to learn a new logic.",
+    "main_description": "Stranger Codes challenges you to step outside your comfort zone and embrace the unfamiliar world of unconventional coding. You'll be thrown into logic challenges using a brand-new programming language revealed on the spot, where quick thinking and creativity are the only way out of the chaos. If you thrive on curiosity, enjoy thinking differently, and love cracking strange systems, this is your arena",
+    "rules": "● Participants may take part individually or in teams of two only. ● Participants must bring their own laptops for the contest. ● A syntax/material sheet for the assigned custom language will be provided to all participants. ● The time limit is strictly enforced, and late submissions will not be considered. ● Participants are required to execute and test programs only through the approved web-based compilers/interpreters. ● Plagiarism, sharing of answers, or any form of malpractice will lead to immediate disqualification",
+    "venue": "TBD",
+    "date": "2026-02-04",
+    "time": "09:00 AM",
+    "created_at": "January 17, 2026 at 12:41:37 AM UTC+5:30",
+    "status": "open",
+    "image_url": "/images/event-images/Stranger Code.png",
+    "hashtags": [
+      "#Talos_5PointO",
+      "#Esolang2026",
+      "#TrendingNow",
+      "#ViralChallenge",
+      "#CodeCreatively"
+    ],
+    "min_team_size": 1,
+    "max_team_size": 2,
+    "max_participants": null,
+    "organiser": {
+      "name": "Nithya Sri S",
+      "contact": [
+        "9840236868",
+        "9710675397"
+      ]
+    }
+  }
+]
