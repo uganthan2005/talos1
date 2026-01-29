@@ -1,6 +1,6 @@
 "use client";
 
-import { useRef } from "react";
+import { useRef, useEffect, useState } from "react";
 import {
   motion,
   useScroll,
@@ -58,9 +58,9 @@ function ParallaxRow({ images, baseVelocity = 100, className = "" }: { images: s
     <div className="overflow-hidden whitespace-nowrap flex flex-nowrap mb-8">
       <motion.div className="flex flex-nowrap gap-4" style={{ x }}>
         {[...images, ...images].map((src, i) => (
-          <motion.div 
-            key={i} 
-            whileHover={{ 
+          <motion.div
+            key={i}
+            whileHover={{
               scale: 1.05,
               zIndex: 50
             }}
@@ -82,16 +82,22 @@ function ParallaxRow({ images, baseVelocity = 100, className = "" }: { images: s
 }
 
 export default function ParallaxScrollGallery({ images, className = "" }: ParallaxScrollGalleryProps) {
+  const [shuffledImages, setShuffledImages] = useState<string[]>(images);
+
+  useEffect(() => {
+    setShuffledImages([...images].sort(() => Math.random() - 0.5));
+  }, [images]);
+
   // Split images into rows
   const half = Math.ceil(images.length / 2);
   const row1 = images.slice(0, half);
   const row2 = images.slice(half);
-  const row3 = [...images].sort(() => Math.random() - 0.5);
+  const row3 = shuffledImages;
 
   return (
     <div className={`w-full py-12 overflow-hidden ${className}`}>
       <div className="absolute inset-0 z-0 opacity-20 pointer-events-none bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-red-900/40 via-transparent to-transparent" />
-      
+
       <ParallaxRow images={row1} baseVelocity={-1} />
       <ParallaxRow images={row2} baseVelocity={1} />
       <ParallaxRow images={row3} baseVelocity={-0.8} />
